@@ -1,0 +1,15 @@
+E:\Personal\TicTacToe-C#\bin\Debug\net8.0-windows\tictactoe.exe
+E:\Personal\TicTacToe-C#\bin\Debug\net8.0-windows\tictactoe.deps.json
+E:\Personal\TicTacToe-C#\bin\Debug\net8.0-windows\tictactoe.runtimeconfig.json
+E:\Personal\TicTacToe-C#\bin\Debug\net8.0-windows\tictactoe.dll
+E:\Personal\TicTacToe-C#\bin\Debug\net8.0-windows\tictactoe.pdb
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.AssemblyInfoInputs.cache
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.AssemblyInfo.cs
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.csproj.CoreCompileInputs.cache
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.sourcelink.json
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.dll
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\refint\tictactoe.dll
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.pdb
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\tictactoe.genruntimeconfig.cache
+E:\Personal\TicTacToe-C#\obj\Debug\net8.0-windows\ref\tictactoe.dll
